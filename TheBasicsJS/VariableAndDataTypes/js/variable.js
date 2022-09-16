@@ -21,4 +21,3 @@ alert (admin);
 let OurPlanetName = 'Земля';
 let CurrentUserName = 'Алекс';
 
-/* Практика №3 */
