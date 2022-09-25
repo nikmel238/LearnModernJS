@@ -11,10 +11,10 @@ newName = 'значения в переменных можно изменять,
 console.log (newName); 
 
 /* Практика №1 */
-let name;
+let nameUser;
 let admin;
-name = 'Джон';
-admin = name;
+nameUser = 'Джон';
+admin = nameUser;
 alert (admin);
 
 /* Практика №2 */
