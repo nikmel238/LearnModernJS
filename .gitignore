@@ -1,2 +1,6 @@
-/ignore
 /node_modules
+.eslintignore
+.eslintrc
+.prettierrc.json
+package-lock.json
+package.json
